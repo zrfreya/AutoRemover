@@ -1,5 +1,5 @@
 # AutoRemover
-Code and dataset for AAAI-2020 paper: [《AutoRemover: Automatic Object Removal for Autonomous Driving Videos》](https://arxiv.org/abs/1911.12588)
+Dataset for AAAI-2020 paper: [《AutoRemover: Automatic Object Removal for Autonomous Driving Videos》](https://arxiv.org/abs/1911.12588)
 
 The Shadow Dataset
 
